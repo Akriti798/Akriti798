@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Akriti Shrivastava  
+🎓 B.Tech CSE Student | SIH 2024 Winner | Tech Enthusiast  
 
-<!--
-**Akriti798/Akriti798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about **problem-solving, open-source contributions, and building impactful solutions**.  
+I have a strong interest in **cybersecurity, data structures & algorithms, and full-stack development**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Interests  
+💻 Full-Stack Development (MERN Stack)  
+🔐 Cybersecurity & Networking (CCNA, DDoS Protection Systems)  
+📊 Data Structures & Algorithms  
+🌐 Web Technologies: JavaScript, React.js,  Tailwind CSS  
+⚡ Project Management   
+
+---
+
+🏆 Highlights  
+🥇 Winner — **Smart India Hackathon 2024**  
+🥉 **Academic Excellence Award** – 3rd in 1st Year B.Tech  
+🚀 **GSSoC Contributor & Campus Ambassador**  
+🚀 Technical team lead of my college ecell
+📌 Selected for multiple hackathons & innovation-driven projects  
+
+---
+
+📫 Connect with Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/akritishrivastava798/)  
+📧 akritishrivastava1905@gmail.com  
+
