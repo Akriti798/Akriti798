@@ -6,7 +6,7 @@ I have a strong interest in **cybersecurity, data structures & algorithms, and f
 
 ---
 
-🛠️ Skills & Interests  
+🛠️ **Skills & Interests**
 💻 Full-Stack Development (MERN Stack)  
 🔐 Cybersecurity & Networking (CCNA, DDoS Protection Systems)  
 📊 Data Structures & Algorithms  
@@ -15,10 +15,10 @@ I have a strong interest in **cybersecurity, data structures & algorithms, and f
 
 ---
 
-🏆 Highlights  
+🏆 **Highlights** 
 🥇 Winner — **Smart India Hackathon 2024**  
 🥉 **Contributor** – Hacktoberfest 2025
-🥉 **Academic Excellence Award** – 3rd in 1st Year B.Tech  
+🥉 **Academic Excellence Award** – 3rd rank in 1st Year B.Tech  
 🚀 **GSSoC Contributor & Campus Ambassador**  
 🚀 Technical team lead of my college ecell
 📌 Selected for multiple hackathons & innovation-driven projects  
